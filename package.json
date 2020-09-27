@@ -1,0 +1,25 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "An application that keeps track of todos",
+  "main": "todoapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IGIfeanyichukwu/to-do-app.git"
+  },
+  "keywords": [
+    "todo",
+    "app",
+    "tracker",
+    "to do"
+  ],
+  "author": "I. G Ifeanyichukwu <if3cofr3sh@gmail.com> (Ifex)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IGIfeanyichukwu/to-do-app/issues"
+  },
+  "homepage": "https://github.com/IGIfeanyichukwu/to-do-app#readme"
+}
