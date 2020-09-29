@@ -4,7 +4,7 @@
   "description": "An application that keeps track of todos",
   "main": "todoapp.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist" 
   },
   "repository": {
     "type": "git",
@@ -18,8 +18,8 @@
   ],
   "author": "I. G Ifeanyichukwu <if3cofr3sh@gmail.com> (Ifex)",
   "license": "MIT",
+  "homepage": "https://IGIfeanyichukwu.github.io/to-do-app",
   "bugs": {
     "url": "https://github.com/IGIfeanyichukwu/to-do-app/issues"
-  },
-  "homepage": "https://github.com/IGIfeanyichukwu/to-do-app#readme"
+  }
 }
