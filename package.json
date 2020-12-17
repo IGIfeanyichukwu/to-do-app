@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IGIfeanyichukwu/to-do-app.git"
+    "url": "git+https://github.com/IamGideonIdoko/to-do-app.git"
   },
   "keywords": [
     "todo",
@@ -16,10 +16,10 @@
     "tracker",
     "to do"
   ],
-  "author": "I. G Ifeanyichukwu <if3cofr3sh@gmail.com> (Ifex)",
+  "author": "Gideon Idoko <iamgideonidoko@gmail.com>",
   "license": "MIT",
-  "homepage": "https://IGIfeanyichukwu.github.io/to-do-app",
+  "homepage": "https://IamGideonIdoko.github.io/to-do-app",
   "bugs": {
-    "url": "https://github.com/IGIfeanyichukwu/to-do-app/issues"
+    "url": "https://github.com/IamGideonIdoko/to-do-app/issues"
   }
 }
